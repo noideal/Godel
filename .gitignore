@@ -23,8 +23,9 @@ local.properties
 proguard/
 # Eclipse Metadata
 .metadata/
-# Windows thumbnail db
+# Windows 
 Thumbs.db
+desktop.ini
 # OSX files
 .DS_Store
 # Eclipse project files
@@ -34,3 +35,4 @@ Thumbs.db
 *.iml
 .idea
 #.idea/workspace.xml - remove # and delete .idea if it better suit your needs.
+app/src/main/res/values/private_strings.xml

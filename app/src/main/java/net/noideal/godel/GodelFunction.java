@@ -51,4 +51,13 @@ public class GodelFunction {
         return format.format(num);
     }
 
+/**
+    static String s_formalNum(String s_gStringin) {
+        String gString = "";
+
+
+        return gString;
+    }
+**/
+
 }
